@@ -22,6 +22,8 @@ class XX : AppCompatActivity() {
         xx1 = savedInstanceState
         if (savedInstanceState != null) {
             xx2 = savedInstanceState
+
+            val xx="dlwoapdkopawdjpo";
         }
     }
 }
